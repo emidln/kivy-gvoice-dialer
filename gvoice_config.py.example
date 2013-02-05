@@ -1,0 +1,10 @@
+# move rename this file to remove the .example and fill in the values as necessary
+email = 'YOURUSERNAMEGOESHERE@gmail.com'
+passwd = 'YOURPASSWORDHERE'
+phone_to_ring = 'YOURPHONENUMBER'
+# from googlevoice import Voice
+# voice = Voice()
+# voice.login()
+# voice.phones[0].type
+### replace the 0 index with whatever phone you want. the type is hte int you require. 1 is for Home
+phone_to_ring_type = 1

@@ -1,0 +1,3 @@
+title=Google Voice Dialer
+author=emidln
+orientation=portait
